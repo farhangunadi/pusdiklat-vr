@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@react-three/cannon": "^6.5.2",
+    "@react-three/drei": "^9.56.24",
+    "@react-three/fiber": "^8.11.0",
+    "bootstrap": "^5.2.3",
+    "gltfjsx": "^6.1.4",
+    "next": "^13.2.1",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.7.0",
+    "react-dom": "18.2.0",
+    "three": "^0.149.0",
+    "vercel": "^28.17.0"
+  }
+}
