@@ -2,6 +2,7 @@ import React, { useRef } from 'react'
 import { useGLTF } from '@react-three/drei'
 import { useBox } from "@react-three/cannon";
 
+
 export function Gate(props) {
   const [ref] = useBox((index) => ({
     type: "Static",
